@@ -1,5 +1,11 @@
 SOFYAN TEST FE By Anung Ramadhan
 
+Prerequisites:
+
+- NPM & Node.js
+- React JS
+- Git
+
 How to install and run:
 
 - Clone the repository
